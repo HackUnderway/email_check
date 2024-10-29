@@ -1,5 +1,5 @@
 # EMAIL CHECK
-𝐄𝐦𝐚𝐢𝐥 𝐂𝐡𝐞𝐜𝐤, using Holehe in Flask to do OSINT to emails. 🕵🏽‍♂️ <br>
+𝐄𝐦𝐚𝐢𝐥 𝐂𝐡𝐞𝐜𝐤, using Holehe in Flask to perform OSINT on email addresses. 🕵🏽‍♂️ <br>
 Check on which platforms an email is linked to for your OSINT investigations. 👨🏽‍💻
 
 [![Join our Fanpage](https://img.shields.io/badge/Join%20Our%20Fanpage-Hack%20Underway-1.svg)](https://www.facebook.com/HackUnderway/)
